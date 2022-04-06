@@ -1,8 +1,75 @@
 <!DOCTYPE html>
 <html lang="en">
-  <?php include 'inc/head.php';?>
+   <head>
+      <title>Academia - Free Bootstrap 5 Template by Colorlib</title>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+      <link rel="preconnect" href="https://fonts.gstatic.com/">
+      <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&amp;display=swap" rel="stylesheet">
+      <link rel="stylesheet" href="../../../stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+      <link rel="stylesheet" href="../../../cdnjs.cloudflare.com/ajax/libs/ionicons/4.5.6/css/ionicons.min.css">
+      <link rel="stylesheet" href="css/A.animate.css%2bflaticon.css%2btiny-slider.css%2bglightbox.min.css%2baos.css%2bstyle.css%2cMcc.HFFLwOuYCQ.css.pagespeed.cf.AZpkzFaEmU.css" />
+   </head>
    <body>
-   <?php include 'inc/header.php';?>
+      <div class="top-wrap">
+         <div class="container">
+            <div class="row">
+               <div class="col-md col-xl-5 d-flex align-items-center">
+                  <a class="navbar-brand align-items-center" href="index-2.html">
+                  Academia
+                  <span>Online Education &amp; Learning</span>
+                  </a>
+               </div>
+               <div class="col-md d-flex align-items-center">
+                  <div class="con d-flex">
+                     <div class="icon"><span class="flaticon-clock"></span></div>
+                     <div class="text">
+                        <span>Monday - Friday</span>
+                        <strong>8:00AM-8:00PM</strong>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-md d-flex align-items-center">
+                  <div class="con d-flex">
+                     <div class="icon"><span class="flaticon-telephone"></span></div>
+                     <div class="text">
+                        <span>Call Us</span>
+                        <strong>+9510668822</strong>
+                     </div>
+                  </div>
+               </div>
+               <!-- <div class="col-md d-flex justify-content-end align-items-center">
+                  <div class="social-media">
+                     <p class="mb-0 d-flex">
+                        <a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-facebook"><i class="sr-only">Facebook</i></span></a>
+                        <a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"><i class="sr-only">Twitter</i></span></a>
+                        <a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-instagram"><i class="sr-only">Instagram</i></span></a>
+                        <a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-dribbble"><i class="sr-only">Dribbble</i></span></a>
+                     </p>
+                  </div>
+               </div> -->
+            </div>
+         </div>
+      </div>
+      <nav class="navbar navbar-expand-lg  ftco-navbar-light">
+         <div class="container-xl">
+            <a href="#" class="btn-custom order-lg-last">Get Certificate</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="fa fa-bars"></span> Menu
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+               <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                  <li class="nav-item"><a class="nav-link active" href="index.php">Home</a></li>
+                  <li class="nav-item"><a class="nav-link" href="courses.php">All Courses</a></li>
+                  <!-- <li class="nav-item"><a class="nav-link" href="about.html">About</a></li>
+                  <li class="nav-item"><a class="nav-link" href="team.html">Team</a></li>
+                  <li class="nav-item"><a class="nav-link" href="pricing.html">Pricing</a></li>
+                  <li class="nav-item"><a class="nav-link" href="blog.html">Journal</a></li>
+                  <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li> -->
+               </ul>
+            </div>
+         </div>
+      </nav>
       <section class="hero-wrap" style="background-image:url(images/xbg_1.jpg.pagespeed.ic.LEZ7WXICMQ.jpg)">
          <div class="overlay"></div>
          <div class="container">
@@ -588,7 +655,110 @@
             </div>
          </div>
       </section>
-      <?php include 'inc/footer.php';?>
+      <footer class="ftco-footer">
+         <div class="container-xl">
+            <div class="row mb-5 justify-content-between">
+               <div class="col-md-6 col-lg">
+                  <div class="ftco-footer-widget mb-4">
+                     <h2 class="ftco-heading-2 logo d-flex">
+                        <a class="navbar-brand align-items-center" href="index-2.html">
+                        Academia
+                        <span>Online Education &amp; Learning</span>
+                        </a>
+                     </h2>
+                     <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+                     <ul class="ftco-footer-social list-unstyled mt-2">
+                        <li><a href="#"><span class="fa fa-twitter"></span></a></li>
+                        <li><a href="#"><span class="fa fa-facebook"></span></a></li>
+                        <li><a href="#"><span class="fa fa-instagram"></span></a></li>
+                     </ul>
+                  </div>
+               </div>
+               <div class="col-md-6 col-lg-2">
+                  <div class="ftco-footer-widget mb-4">
+                     <h2 class="ftco-heading-2">Explore</h2>
+                     <ul class="list-unstyled">
+                        <li><a href="#"><span class="ion ion-ios-arrow-round-forward me-2"></span>About Us</a></li>
+                        <li><a href="#"><span class="ion ion-ios-arrow-round-forward me-2"></span>Services</a></li>
+                        <li><a href="#"><span class="ion ion-ios-arrow-round-forward me-2"></span>Courses</a></li>
+                        <li><a href="#"><span class="ion ion-ios-arrow-round-forward me-2"></span>Blog</a></li>
+                        <li><a href="#"><span class="ion ion-ios-arrow-round-forward me-2"></span>Contact us</a></li>
+                     </ul>
+                  </div>
+               </div>
+               <div class="col-md-6 col-lg-2">
+                  <div class="ftco-footer-widget mb-4">
+                     <h2 class="ftco-heading-2">Quick Links</h2>
+                     <ul class="list-unstyled">
+                        <li><a href="#"><span class="ion ion-ios-arrow-round-forward me-2"></span>Contact Us</a></li>
+                        <li><a href="#"><span class="ion ion-ios-arrow-round-forward me-2"></span>Pricing</a></li>
+                        <li><a href="#"><span class="ion ion-ios-arrow-round-forward me-2"></span>Terms &amp; Conditions</a></li>
+                        <li><a href="#"><span class="ion ion-ios-arrow-round-forward me-2"></span>Privacy</a></li>
+                        <li><a href="#"><span class="ion ion-ios-arrow-round-forward me-2"></span>Feedbacks</a></li>
+                     </ul>
+                  </div>
+               </div>
+               <div class="col-md-6 col-lg">
+                  <div class="ftco-footer-widget mb-4">
+                     <h2 class="ftco-heading-2">Recent Posts</h2>
+                     <div class="block-21 mb-4 d-flex">
+                        <a class="blog-img img rounded" style="background-image:url(images/ximage_1.jpg.pagespeed.ic.UgmmPhXrdT.jpg)"></a>
+                        <div class="text">
+                           <div class="meta">
+                              <div><a href="#"><span class="fa fa-calendar"></span> Jan. 18, 2021</a></div>
+                              <div><a href="#"><span class="fa fa-user"></span> Admin</a></div>
+                           </div>
+                           <h3 class="heading"><a href="#">Creativity and Inspiration</a></h3>
+                        </div>
+                     </div>
+                     <div class="block-21 mb-4 d-flex">
+                        <a class="blog-img img rounded" style="background-image:url(images/ximage_2.jpg.pagespeed.ic.VzEAApnz9L.jpg)"></a>
+                        <div class="text">
+                           <div class="meta">
+                              <div><a href="#"><span class="fa fa-calendar"></span> Jan. 18, 2021</a></div>
+                              <div><a href="#"><span class="fa fa-user"></span> Admin</a></div>
+                           </div>
+                           <h3 class="heading"><a href="#">Creativity and Inspiration</a></h3>
+                        </div>
+                     </div>
+                     <div class="block-21 mb-4 d-flex">
+                        <a class="blog-img img rounded" style="background-image:url(images/ximage_4.jpg.pagespeed.ic.QcOUqWK7Iz.jpg)"></a>
+                        <div class="text">
+                           <div class="meta">
+                              <div><a href="#"><span class="fa fa-calendar"></span> Jan. 18, 2021</a></div>
+                              <div><a href="#"><span class="fa fa-user"></span> Admin</a></div>
+                           </div>
+                           <h3 class="heading"><a href="#">Creativity and Inspiration</a></h3>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-md-6 col-lg">
+                  <div class="ftco-footer-widget mb-4">
+                     <h2 class="ftco-heading-2">Have a Questions?</h2>
+                     <div class="block-23 mb-3">
+                        <ul>
+                           <li><span class="icon fa fa-map marker"></span><span class="text">203 Fake St. Mountain View, San Francisco, California, USA</span></li>
+                           <li><a href="#"><span class="icon fa fa-phone"></span><span class="text">+2 392 3929 210</span></a></li>
+                           <li><a href="#"><span class="icon fa fa-paper-plane"></span><span class="text"><span class="__cf_email__" data-cfemail="462f282029063f29333422292b272f286825292b">[email&#160;protected]</span></span></a></li>
+                        </ul>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="container-fluid px-0 py-5 bg-darken">
+            <div class="container-xl">
+               <div class="row">
+                  <div class="col-md-12 text-center">
+                     <p class="mb-0" style="font-size: 14px;">
+                        Copyright &copy;<script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart color-danger" aria-hidden="true"></i> by <a href="https://colorlib.com/" target="_blank" rel="nofollow noopener">Colorlib</a>
+                     </p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </footer>
       <script src="js/bootstrap.bundle.min.js"></script>
       <script src="js/tiny-slider.js"></script>
    </body>
